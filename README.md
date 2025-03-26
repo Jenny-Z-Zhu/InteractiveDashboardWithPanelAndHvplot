@@ -12,5 +12,5 @@ Steps:
 
 ---
 If you don't want to run on your local, download below files:
-1. Demo of individual plot in HTML, however the widget doesn't work on HTML: `Customer_Churn_EDA_HTML.html`
-2. Demo of the final web app in a video: `Untitled video - Made with Clipchamp`
+1. Demo of individual plot and its widgets, but the widget doesn't work on PDF: `Customer_Churn_EDA_with_Output.pdf`
+2. Demo of the final web app in a video format: `Untitled video - Made with Clipchamp`
