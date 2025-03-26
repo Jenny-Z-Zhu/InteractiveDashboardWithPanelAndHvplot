@@ -1,6 +1,12 @@
 # Two Ways to View this Project
 
-Welcome!
+Welcome! This project involves building an interactive data visualization dashboard using Panel and HvPlot. The dashboard allows users to explore, filter, and analyze data dynamically with interactive widgets like sliders, dropdowns, and checkboxes.
+
+🔹 Key Features:
+- Panel: For creating interactive web-based dashboards in Python.
+- HvPlot: High-level plotting API for interactive visualizations with minimal code.
+- Widgets: User-controlled filters for real-time data exploration.
+- Deployment: Can be hosted locally or on web platforms like Binder, Heroku, or Hugging Face Spaces.
 
 ## View on Your Local Environment
 Download below file to view dashboard on your local enviroment (IDE only), Jupyter Lab won't work.
