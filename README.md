@@ -1,5 +1,7 @@
 # Interactive Dashboard Built with Panel And Hvplot
 
+Web Version: https://jenny-z-zhu.github.io/churn-dashboard.github.io/app.html
+
 Welcome! This project involves building an interactive data visualization dashboard using Panel and HvPlot. The dashboard allows users to explore, filter, and analyze data dynamically with interactive widgets like sliders, dropdowns, and checkboxes.
 
 🔹 Key Features:
@@ -28,4 +30,3 @@ Steps:
 If you don't want to run on your local, download below files:
 1. Demo of individual plot and its widgets, but the widget doesn't work on PDF: `Customer_Churn_EDA_with_outputs.pdf`
 2. Demo of the final web app in a video format: `Untitled video - Made with Clipchamp`
-3. Try complete dash at https://jenny-z-zhu.github.io/churn-dashboard.github.io/app.html
